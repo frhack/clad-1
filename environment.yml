@@ -2,7 +2,8 @@ channels:
   - QuantStack
   - conda-forge
 dependencies:
-  - xplot
+  - clad
   - xeus-cling
-  - bqplot
-  - widgetsnbextension
+  - matplotlib
+  - cmake
+  - python=3.7
