@@ -4,4 +4,3 @@ channels:
 dependencies:
   - clad
   - xeus-cling
-  - xplot
