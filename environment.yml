@@ -2,8 +2,6 @@ channels:
   - QuantStack
   - conda-forge
 dependencies:
-  - xeus-cling=0.8.1
+  - xeus-cling
   - clad
-  - xplot=0.15.0
-  - bqplot=0.11.5
-  - widgetsnbextension >=3.0.0
+  - xplot
