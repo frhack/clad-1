@@ -2,6 +2,7 @@ channels:
   - QuantStack
   - conda-forge
 dependencies:
+  - numpy
   - clad
   - xeus-cling
   - matplotlib
