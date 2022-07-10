@@ -6,4 +6,3 @@ dependencies:
   - xeus-cling
   - bqplot
   - widgetsnbextension
-  - clad
