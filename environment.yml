@@ -4,3 +4,5 @@ channels:
 dependencies:
   - xplot
   - xeus-cling
+  - bqplot
+  - widgetsnbextension
