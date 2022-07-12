@@ -8,3 +8,4 @@ dependencies:
   - matplotlib
   - cmake
   - python=3.7
+  - python3.7-dev
